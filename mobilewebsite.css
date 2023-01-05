@@ -1,0 +1,21 @@
+.devi{
+	background-image: url( 'https://res.cloudinary.com/daifehfnu/image/upload/v1672224533/background_poneaf.webp');
+	background-size: cover;
+	height: 100vh;
+}
+.layoutcard{
+	background-color:blanchedalmond;
+	height: 200px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	padding:10px ;
+}
+.heading{
+	color: black;
+	font-family: 'roboto';
+	font-weight: bold;
+}
+.paraline{
+	font-family: 'roboto';
+	color:deeppink;
+}.

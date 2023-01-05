@@ -1,0 +1,33 @@
+.bgimg2{
+	background-image: url( 'https://res.cloudinary.com/daifehfnu/image/upload/v1672309615/redblack_en9mk3.jpg');
+	background-size: cover;
+	height: 100vh;
+}
+.mobilehead{
+	font-family: roboto;
+	color: white;
+	font-weight: bold;
+	font-size: 35px;
+	padding: 25px;
+}
+.layoutcard2{
+	background-color: yellow;
+	border-radius: 8px;
+	padding: 15px;
+	margin: 18px;
+}
+.brandsimg{
+	width: 120px;
+	height: 120px;
+}
+.brandshead{
+	color: black;
+	font-family: roboto;
+	font-weight:bold ;
+	font-size: 30px;
+}
+.brandspara{
+	color: darkblue;
+	font-family: roboto;
+	font-size: 15px;
+}
